@@ -73,14 +73,6 @@ The dataset includes the following features:
 * `scaler.pkl`: The saved StandardScaler object.
 * `model.pkl`: The saved Linear Regression model.
 * `templates/index.html`: The HTML template for the web interface.
-* `your_training_script.py`: The python code to train and save the model.
 
-## Future Improvements
 
-* Implement a more robust model such as Logistic Regression, Random Forest, or Gradient Boosting.
-* Improve the user interface with better styling and error handling.
-* Add more features to the prediction model.
-* Deploy the application to a cloud platform.
-* Add input validation to the web application.
-* Add more detailed result output.
-* Add data visualization.
+
