@@ -7,10 +7,6 @@ This repository contains a web application built with Flask that predicts whethe
 
 This project aims to create a simple web interface for a diabetes prediction model. Users can input relevant health metrics, and the application will return a prediction of whether the individual is likely to have diabetes.
 
-## Dataset
-
-The dataset used for training the model is the Pima Indians Diabetes Dataset, available on Kaggle or UCI Machine Learning Repository.
-
 ## Features
 
 The dataset includes the following features:
